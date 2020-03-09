@@ -75,3 +75,4 @@ Udacity Deep Reinforcement Learning Nanodegree Program - Reacher Continuous Cont
     - Hidden: (512, 256)                   - ReLU
     - Hidden: (256, 128)                   - ReLU
     - Output: (128, 4)                     - linear
+    
